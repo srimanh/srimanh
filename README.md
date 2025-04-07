@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **backend**
-
-- 💬 Ask me about **frontend web development**
+- 💬 Ask me about **Full Stack development**
 
 - 📫 How to reach me **srimandgl2004@gmail.com**
 
