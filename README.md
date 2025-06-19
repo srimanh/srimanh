@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sriman.H</h1>
 <h3 align="center">A passionate frontend and backend web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[[https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif](https://itbrief.in/uploads/story/2024/05/17/img-iCOazUGAo9w4jTnyOBu7OuJI.webp)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fitbrief.in%2Fstory%2Fgithub-unveils-new-initiatives-for-global-accessibility-day&psig=AOvVaw3465nn9kPAnojIZk47y_yT&ust=1750412305295000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPixk6iY_Y0DFQAAAAAdAAAAABAy)
-"/>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fitbrief.in%2Fstory%2Fgithub-unveils-new-initiatives-for-global-accessibility-day&psig=AOvVaw3465nn9kPAnojIZk47y_yT&ust=1750412305295000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPixk6iY_Y0DFQAAAAAdAAAAABAy"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srimanh&label=Profile%20views&color=0e75b6&style=flat" alt="srimanh" /> </p>
 
