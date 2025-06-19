@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sriman.H</h1>
 <h3 align="center">A passionate frontend and backend web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fitbrief.in%2Fstory%2Fgithub-unveils-new-initiatives-for-global-accessibility-day&psig=AOvVaw3465nn9kPAnojIZk47y_yT&ust=1750412305295000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPixk6iY_Y0DFQAAAAAdAAAAABAy"/>
+<img align="right" alt="Coding" width="400" src="https://images.ctfassets.net/8aevphvgewt8/0HfkbaoqWi6zYuZSk79XZ/b92847c998cc10397153a87b276d46fa/teachers.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srimanh&label=Profile%20views&color=0e75b6&style=flat" alt="srimanh" /> </p>
 
