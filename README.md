@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎯 All of my projects are available at  <a href="https://tranquil-kitsune-3ae00d.netlify.app/" target="blank">Portfolio</a>
+- 🎯 All of my projects are available at  <a href="sriman-dev.vercel.app/" target="blank">Portfolio</a>
 
 - 💬 Ask me about **Full Stack development**
 
